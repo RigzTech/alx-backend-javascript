@@ -1,13 +1,28 @@
-#0x06. Unittests in JS
+0x06. Unittests in JS
 
-##Resources
-#**Read or watch:
+
+Resources
+
+
+Read or watch:
 Mocha documentation: https://mochajs.org/
+
+
 Chai: https://www.chaijs.com/api/bdd/
+
+
 Sinon: https://www.npmjs.com/package/sinon
+
+
 Express: https://expressjs.com/en/guide/routing.html
+
+
 Request: https://www.npmjs.com/package/request
+
+
 How to Test NodeJS Apps using Mocha, Chai and SinonJS: https://intranet.alxswe.com/projects/1244
+
+
 ##Learning Objectives
 At the end of this project, you are expected to be able to explain to anyone, without the help of Google:
 
@@ -19,7 +34,9 @@ When and how to use stubs
 What are hooks and when to use them
 Unit testing with Async functions
 How to write integration tests with a small node server
-##Requirements
+
+
+Requirements
 All of your code will be executed on Ubuntu 18.04 using Node 12.x.x
 Allowed editors: vi, vim, emacs, Visual Studio Code
 All your files should end with a new line
